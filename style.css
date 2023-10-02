@@ -1,0 +1,812 @@
+
+#logo
+{
+    height: 50px;
+    width: 20%;
+}
+#navlogo
+{
+    height: 70px;
+    width: 70%;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+#navbar
+{
+    color: white;
+}
+#back
+{
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 130px;
+    padding-right: 400px;
+    
+    
+    font-size: 80px;
+    color: rgb(15, 139, 139);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+#bgimg
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 550px;
+}
+
+@media(max-width:795px)
+{
+    #bgimg
+    {
+        height: 650px;
+    }
+}
+
+@media(max-width:792px)
+{
+    #bgimg
+    {
+        height: 600px;
+    }
+}
+
+
+@media(max-width:524px)
+{
+    #bgimg
+    {
+        height: 700px;
+    }
+}
+
+@media(max-width:501px)
+{
+    #bgimg
+    {
+        height: 750px;
+    }
+}
+
+#All
+{
+    background-color: #065bf8;
+    color: white;
+}
+
+
+
+#Iphone
+{
+    background-color: #065bf8;
+    color: white;
+    
+}
+
+
+
+#Samsung
+{
+    background-color: #065bf8;
+    color: white;
+
+}
+
+#Huawei
+
+{
+    background-color: #065bf8;
+    color: white;
+}
+
+#Motrola
+{
+    background-color: #065bf8;
+    color: white;
+}
+
+#Xiaomi
+
+{
+    background-color: #065bf8;
+    color: white;
+}
+
+
+
+
+#whiteline
+{
+    height: 5px;
+    width: 100%;
+}
+#logos
+{
+    width: 100%;
+    height: 100px;
+    padding-top: 5px;
+  
+    
+}
+#logo2
+{
+    padding-left: 50px;
+}
+#logo3
+{
+    padding-left: 50px;
+}
+#logo4
+{
+    padding-left: 50px;
+}
+#logo5
+{
+    padding-left: 50px;
+}
+#logo6
+{
+    padding-left: 50px;
+}
+
+#shopname3
+{
+    margin-bottom: -60px;
+    font-size: 20px;
+    animation: bounceInLeft;
+        animation-duration: 4s;
+        font-family: 'Times New Roman', Times, serif;
+        display: none;
+}
+
+@media(max-width:991px)
+        {
+            #shopname3
+            {
+                display: flex;
+            }
+
+            
+        }
+
+
+
+#shopname2
+{
+    margin-bottom: -60px;
+    font-size: 20px;
+    animation: bounceInLeft;
+        animation-duration: 4s;
+        font-family: 'Times New Roman', Times, serif;
+        display: none;
+}
+
+@media(max-width:990px)
+        {
+            #shopname2
+            {
+                display: flex;
+            }
+
+            #shopname3
+            {
+                display: none;
+            }
+        }
+
+        @media(max-width:792px)
+        {
+            #shopname2
+            {
+                margin-bottom: -130px;
+            }
+        }        
+
+#shopname
+{
+    font-size: 70px;
+   
+    text-align: center;
+         animation: bounceInLeft;
+        animation-duration: 4s;
+}  
+
+@media(max-width:991px)
+{
+    #shopname
+    {
+        display: none;
+    }
+
+    
+}
+
+
+
+
+#buttons
+{
+    margin-right: 30px;
+}
+
+
+
+/* gallery start */
+.items
+{
+    border: white solid;
+    height: 330px;
+}
+.item
+{
+    border: white solid;
+    height: 250px;
+}
+#img
+{
+    height: 500px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+#mt-5
+{
+    padding-top: 50px;
+}
+#cartbutton
+{
+    display: none;
+}
+#para
+{
+    
+    margin-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+#abouthead
+{
+    color: white;
+}
+#heading
+{
+    margin-top: 10px;
+}
+
+#about
+{
+    background-color: #242526;
+    color: aliceblue;
+}
+
+#us
+{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 30px;
+    color: rgb(10, 10, 10);
+}
+#map
+{
+    margin-top: 45px;
+}
+#heading
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(5, 5, 5);
+    margin-top: 5%;
+}
+
+#headingabout
+{
+    color: white;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#contact
+{
+    background-color: #062c50;
+}
+
+#sub
+{
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+#sub:hover
+{
+    background: #065bf8;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #8f7CEC, 0 0 25px #8f7CEC, 0 0 50px #8f7CEC, 0 0 100px #8f7CEC;
+}
+#det:hover
+{
+    background: #065bf8;
+    color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #8f7CEC, 0 0 25px #8f7CEC, 0 0 50px #8f7CEC, 0 0 100px #8f7CEC;
+}
+
+#companydes
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#logobuttons
+{
+    margin-top: 15px;
+}
+#topmobiles
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+}
+#topmobhead
+{
+    margin-bottom: -50px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#companydeshead
+{
+    color: rgb(2, 2, 2);
+    margin-bottom: -50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#forwhite
+{
+    color: white; 
+}
+#iphoneexplore
+{
+    display: none;
+}
+#explore1
+{
+    background-color: #062c50;
+    color: white;
+}
+#explore2
+{
+    background-color: #062c50;
+    color: white;
+}
+#explore3
+{
+    background-color: #062c50;
+    color: white;
+}
+#explore4
+{
+    background-color: #062c50;
+    color: white;
+}
+#explore5
+{
+    background-color: #062c50;
+    color: white;
+}
+#heartbutton
+{
+    margin-left: 200px;
+   
+}
+@media(max-width:988px) 
+{
+    #heartbutton
+    {
+        margin-left: 250px;
+    }
+}
+@media(max-width:767px) 
+{
+    #heartbutton
+    {
+        margin-left: 400px;
+        
+    }
+} 
+@media(max-width:474px)
+{
+    #heartbutton
+    {
+        margin-left: 300px;
+        
+    }
+}
+#samsungexplore
+{
+    display: none;
+}
+
+#huaweiexplore
+{
+    display: none;
+}
+
+#motorolaexplore
+{
+    display: none;
+}
+
+#xiaomiexplore
+{
+    display: none;
+}
+
+#footer
+{
+    /* background-color: #062c50; */
+    height: 120px;
+}
+
+#icons1
+{
+    font-size: 40px;
+    margin: 20px;
+    color: white;
+   
+    
+}
+#icons2
+{
+    font-size: 40px;
+    margin: 20px;
+    color: white;
+        
+}
+#icons3
+{
+    font-size: 40px;
+    margin: 20px;
+    color: white;
+        
+}
+#icons4
+{
+    font-size: 40px;
+    margin: 20px;
+    color: white;
+        
+}
+#logohead
+{
+    color: white;
+}
+
+
+#icons1:hover
+{
+    color: #3399FF;
+}
+#icons2:hover
+{
+    color: green;
+}
+#icons3:hover
+{
+    color: red;
+}
+#icons4:hover
+{
+    color: red;
+}
+#icons5
+{
+    color: white;
+    margin-top: 12px;
+}
+#icons6
+{
+    color: white;
+    margin-top: 12px;
+}
+#icons7
+{
+    color: white;
+    margin-top: 12px;
+}
+#icons8
+{
+    color: white;
+    margin-top: 12px;
+}
+#icons20
+{
+    color: white;
+    margin-top: 12px;
+    margin-left: 10px;
+}
+#iconsr
+{
+    font-size: 25px;
+    color: white;
+    display: none;
+}
+
+@media(max-width:990px)
+{
+    #icons5
+    {
+        display: none;
+    }
+
+    #icons6
+    {
+        display: none;
+    }
+
+    #icons7
+    {
+        display: none;
+    }
+
+    #icons8
+    {
+        display: none;
+    }
+    #icons20
+    {
+        display: none;
+    }
+
+    
+}
+@media(max-width:991px)
+{
+#iconsr
+            {
+                display: flex;
+                font-size: 25px;
+                color: white;
+                margin-bottom: 200px;
+            }
+        }
+
+#home
+{
+    margin-right: 20px;
+}
+#home
+{
+    margin-right: 20px;
+}   
+
+@media(max-width:990px)
+{
+    #home
+    {
+        margin-bottom: 40px;
+    }
+}
+
+#allabout
+{
+    background-color: #062c50;
+}
+#iphonehead{
+    text-align: center;
+    animation:heartBeat ;
+   animation-duration: 4s;
+}
+#samsunghead{
+    text-align: center;
+    animation: fadeInDown ;
+   animation-duration: 2s;
+   margin-right: 70px;
+}
+
+#huaweihead
+{
+ 
+    text-align: center;
+    animation: fadeInUp;
+   animation-duration: 2s;
+   margin-right: 70px;
+}
+#motorolahead{
+    text-align: center;
+    animation: flipInX;
+   animation-duration: 2s;
+   margin-right: 70px;
+}
+#xiaomihead
+{
+    text-align: center;
+    animation:flipInY;
+   animation-duration: 2s;
+   margin-right: 70px;
+}
+
+   
+
+
+
+#imgiphones
+{
+    border: #062c50 solid;
+    height: 440px;
+}
+#imgsamsung
+{
+    border: #062c50 solid;
+    height: 440px;
+}
+#imghuawei
+{
+    border: #062c50 solid;
+    height: 440px;
+}
+#imgmotorola
+{
+    border: #062c50 solid;
+    height: 440px;
+}
+#imgxiaomi
+{
+    border: #062c50 solid;
+    height: 440px;
+}
+#budgetmobiles
+{
+   background-repeat: no-repeat;
+   background-size: 100% 100%; 
+}
+#budgetmobhead
+{
+    color: rgb(7, 7, 7);
+    margin-bottom: -50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#offersmobiles
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#offersmobhead
+{
+    color: rgb(7, 7, 7);
+    margin-bottom: -50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#one
+{
+    font-size: 40px;
+     color: lightblue;
+     padding-top: 20px;
+}
+#two
+{
+    font-size: 40px;
+     color: lightblue;
+     padding-top: 20px;
+}
+#three
+{
+    font-size: 40px;
+     color: lightblue;
+     padding-top: 20px;
+}
+#four
+{
+    font-size: 40px;
+     color: lightblue;
+     padding-top: 20px;
+}
+#five
+{
+    font-size: 40px;
+     color: lightblue;
+     padding-top: 20px;
+}
+
+.rate
+{
+    
+    color: white;
+    text-align: center;
+}
+#samtitle
+{
+    margin-top: 60px;
+    size: 40px;
+}
+
+#items1
+{
+    animation: fadeInDown;
+    animation-duration: 4s;
+}
+#items2
+{
+    animation: fadeInUp;
+    animation-duration: 4s;
+}
+
+/* meet our team start */
+#heading
+{
+    padding-top: 5px;
+}
+
+
+.our_team
+{
+    border: 1px solid black;
+}
+
+#animatemunzir
+{
+    animation: fadeInDown;
+    animation-duration: 4s;
+    border: 3px black solid;
+    height: 560px;
+}
+#animateahtasham
+{
+    animation: fadeInDown;
+    animation-duration: 4s;
+    border: 3px black solid;
+    height: 560px;
+
+}
+#animatehaider
+{
+    animation: fadeInUp;
+    animation-duration: 4s;
+    border: 3px black solid;
+    height: 560px;
+}
+#animateazeem
+{
+    
+    border: 3px black solid;
+    height: 540px;
+}
+#animateasad
+{
+    
+    border: 3px black solid;
+    height: 540px;
+}
+
+/* meet our team end */
+
+   
+#headingteam
+{
+    color: black;
+    margin-top: 55px;
+    margin-bottom: -20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#footer2
+{
+    margin-left: 100px;
+}
+
+
+#top1:hover
+{
+   transform: scale(1.1);
+}
+#ab
+{
+    margin-top: 20px;
+}
